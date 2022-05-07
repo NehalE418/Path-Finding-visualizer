@@ -1,0 +1,27 @@
+.node{
+    border: 1px outset rgb(224, 246, 252);
+    height:30px;
+    width: 40px;
+    float: left;
+}
+.container{
+    background-color: #cfe9d3; 
+    border-bottom: 1px solid black; 
+}
+.item{
+    margin-top: -10;
+    text-align: center;
+    border-right: 0.5px inset black;
+    border-left: 0.5px outset black;
+}
+.grid{
+    font-weight: 100;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.border-right{
+    border-right: 1px solid black;
+}
+body{
+    background-color: rgb(224, 246, 252);
+}
